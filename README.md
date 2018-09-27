@@ -12,7 +12,7 @@ Latest Patch Notes (V0.02);
 - Optimised the background image to fit any screen (hopefully... tablet compatible?? maybe)
 
 There is a survey for you to complete on survey monkey, i am looking forward to hearing your feedback. Below is the link to the survey:
-
+-survey will be ready for friday 28th sep-
 
 For those that can't install it or are having issues i have sent you a separate email with guidelines to potentially solving your problem. If anyone else is having issues or game breaking bugs let me know either by emailing me or creating a new issue for this project on github.
 
