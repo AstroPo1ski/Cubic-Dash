@@ -8,5 +8,5 @@ Latest Patch Notes (V0.015):
 
 There will be a survey on surveymonkey up tomorrow (26th sep 2018 hopefully) to ask you about the current build of the game and your thoughts/ideas. There will be a email tomorrow with the link to the survey.
 
-For those that can't install it or are having issues i have sent you a separate email with guidelines to potentially solving your problem. If anyone else is having issues or game breaking bugs let me know. 
+For those that can't install it or are having issues i have sent you a separate email with guidelines to potentially solving your problem. If anyone else is having issues or game breaking bugs let me know either by emailing me or creating a new issue for this project on github.
 
