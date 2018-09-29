@@ -11,7 +11,7 @@ Latest Patch Notes (V0.02);
 - Made audio come from both sides of the screen, volume being dependant on distance from player (do you guys like this or not? i can't make my mind up)
 - Added a new coin type and changed around the coin values and spawn chance 
 - Optimised the background image to fit any screen (hopefully... tablet compatible?? maybe)
-
+ 
 There is a survey for you to complete on survey monkey, i am looking forward to hearing your feedback. Below is the link to the survey:
 -survey will be ready for friday 28th sep-
 
