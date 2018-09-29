@@ -5,7 +5,7 @@ Latest Patch Notes (V0.1); (still in development, more will be added to this ver
 - Audio changes include; stereo pan from left to right ear depending on distance from the sides of the screen, audio fade out upon death, a random song selector function at the start of the game to change between different songs
 - Inceases the characters movement speed to be more in sync with the player's finger && made the movement smoother
 - Enemy and coin spawn rate scales with time = more enemies and coins spawn the further you get into the game
--Added different enemy types! Play around and see what they do
+- Added different enemy types! Play around and see what they do
 
 Latest Patch Notes (V0.02);
 - Made audio come from both sides of the screen, volume being dependant on distance from player (do you guys like this or not? i can't make my mind up)
