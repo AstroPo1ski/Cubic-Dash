@@ -14,7 +14,7 @@ Latest Patch Notes (V0.02);
  
 Play around with the latest versions for a bit and let me know what you think, the more input the better. You can download the latest version from this link:
 
-https://www.dropbox.com/s/eupnh5dyi2vt3om/Cubic%20Dash%20%28v0.1%29.apk?dl=0
+https://www.dropbox.com/s/6usvwk87mobw2al/Cubic%20Dash%20%28v0.101%29.apk?dl=0 download link for the newest version 
 
 For those that can't install it or are having issues i have sent you a separate email with guidelines to potentially solving your problem. If anyone else is having issues or game breaking bugs let me know either by emailing me or creating a new issue for this project on github.
 
